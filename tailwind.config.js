@@ -4,14 +4,24 @@ module.exports = {
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
     './components/**/*.{js,ts,jsx,tsx,mdx}',
     './app/**/*.{js,ts,jsx,tsx,mdx}',
+    './src/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
+      colors : {
+        "blue" : "#3498db",
+        "blue-light" : "#f3f9fd",
+        "blue-extralight" : "##f7fbfe",
+        gray : {
+          1 : "#111111",
+          2 : "#222222",
+          4 : "#444444",
+          5 : "#555555",
+          6 : "#5e5e5e",
+          7 : "#484848",
+          8 : "#888888",
+        }
+      }
     },
   },
   plugins: [],
