@@ -1,6 +1,8 @@
 function Logo() {
   return (
-    <div>Logo</div>
+    <div>
+      {/* <img src="./image/logo.png" alt="" /> */}
+    </div>
   )
 }
 

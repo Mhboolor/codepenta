@@ -3,9 +3,11 @@ import Navbar from "./content/Navbar";
 
 function Header() {
   return (
-    <header className="flex items-center justify-between container m-auto px-5 sm:px-0">
-      <Logo />
-      <Navbar />
+    <header className="shadow-sm">
+      <div className="flex items-center justify-between container m-auto px-5 sm:px-0 py-6">
+        <Navbar />
+        <Logo />
+      </div>
     </header>
   );
 }
