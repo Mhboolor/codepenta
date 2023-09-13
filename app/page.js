@@ -4,6 +4,7 @@ import Fuatures from "@/src/componetns/home/Fuatures";
 import HeroBanner from "@/src/componetns/home/HeroBanner";
 import MoreServices from "@/src/componetns/home/MoreServices";
 import Portfolio from "@/src/componetns/home/Portfolio";
+import Questions from "@/src/componetns/home/Questions";
 import Rewards from "@/src/componetns/home/Rewards";
 import Services from "@/src/componetns/home/Services";
 import Team from "@/src/componetns/home/Team";
@@ -20,6 +21,7 @@ export default function Home() {
       <Commetns/>
       <Portfolio/>
       <Team/>
+      <Questions/>
     </div>
   );
 }
