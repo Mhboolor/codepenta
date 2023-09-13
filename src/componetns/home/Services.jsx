@@ -12,18 +12,18 @@ function Services() {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
         <div className="bg-white shadow-lg px-6 py-10 rounded-lg overflow-hidden relative group">
           <span
-            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-200 
+            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-300 
             group-hover:bg-blue group-hover:left-0 group-hover:top-0 group-hover:w-full group-hover:h-full"
           ></span>
           <div className="flex flex-col items-start gap-5">
-            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-200 z-10">
+            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-300 z-10">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
                 stroke="currentColor"
-                className="w-9 h-9 text-white group-hover:text-blue duration-200"
+                className="w-9 h-9 text-white group-hover:text-blue duration-300"
               >
                 <path
                   strokeLinecap="round"
@@ -43,18 +43,18 @@ function Services() {
         </div>
         <div className="bg-white shadow-lg px-6 py-10 rounded-lg overflow-hidden relative group">
           <span
-            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-200 
+            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-300 
             group-hover:bg-blue group-hover:left-0 group-hover:top-0 group-hover:w-full group-hover:h-full"
           ></span>
           <div className="flex flex-col items-start gap-5">
-            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-200 z-10">
+            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-300 z-10">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
                 stroke="currentColor"
-                className="w-9 h-9 text-white group-hover:text-blue duration-200"
+                className="w-9 h-9 text-white group-hover:text-blue duration-300"
               >
                 <path
                   strokeLinecap="round"
@@ -74,18 +74,18 @@ function Services() {
         </div>
         <div className="bg-white shadow-lg px-6 py-10 rounded-lg overflow-hidden relative group">
           <span
-            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-200 
+            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-300 
             group-hover:bg-blue group-hover:left-0 group-hover:top-0 group-hover:w-full group-hover:h-full"
           ></span>
           <div className="flex flex-col items-start gap-5">
-            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-200 z-10">
+            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-300 z-10">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
                 stroke="currentColor"
-                className="w-9 h-9 text-white group-hover:text-blue duration-200"
+                className="w-9 h-9 text-white group-hover:text-blue duration-300"
               >
                 <path
                   strokeLinecap="round"
@@ -104,18 +104,18 @@ function Services() {
         </div>
         <div className="bg-white shadow-lg px-6 py-10 rounded-lg overflow-hidden relative group">
           <span
-            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-200 
+            className="absolute -left-24 -top-24 rounded-lg w-24 h-24 bg-blue-light duration-300 
             group-hover:bg-blue group-hover:left-0 group-hover:top-0 group-hover:w-full group-hover:h-full"
           ></span>
           <div className="flex flex-col items-start gap-5">
-            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-200 z-10">
+            <p className="bg-blue rounded-full p-2.5 group-hover:bg-white duration-300 z-10">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
                 stroke="currentColor"
-                className="w-9 h-9 text-white group-hover:text-blue duration-200"
+                className="w-9 h-9 text-white group-hover:text-blue duration-300"
               >
                 <path
                   strokeLinecap="round"
