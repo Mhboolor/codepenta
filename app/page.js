@@ -1,5 +1,6 @@
 import AboutUs from "@/src/componetns/home/AboutUs";
 import HeroBanner from "@/src/componetns/home/HeroBanner";
+import MoreServices from "@/src/componetns/home/MoreServices";
 import Rewards from "@/src/componetns/home/Rewards";
 import Services from "@/src/componetns/home/Services";
 
@@ -10,6 +11,7 @@ export default function Home() {
       <AboutUs />
       <Rewards />
       <Services />
+      <MoreServices/>
     </div>
   );
 }
