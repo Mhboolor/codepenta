@@ -4,10 +4,12 @@ function Services() {
   return (
     <div className="flex flex-col items-center justify-center gap-9 container m-auto px-5 md:px-0">
       <div className="flex flex-col gap-3">
-        <Title text={"خدمات "} />
-        <p className="text-base text-center">
-          او زحمات زیادی می کشد تا از عواقبش از چیزی که به وجود آمده استفاده کند
-        </p>
+        <Title
+          text={"خدمات "}
+          caption={
+            "او زحمات زیادی می کشد تا از عواقبش از چیزی که به وجود آمده استفاده کند"
+          }
+        />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
         <div className="bg-white shadow-lg px-6 py-10 rounded-lg overflow-hidden relative group">
