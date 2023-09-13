@@ -21,6 +21,7 @@ module.exports = {
           7: "#484848",
           8: "#888888",
           9: "#f6f6f6",
+          10: "#aaaaaa",
         },
       },
       animation: {
