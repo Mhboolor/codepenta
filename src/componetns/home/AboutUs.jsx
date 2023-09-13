@@ -1,14 +1,10 @@
+import Title from "../common/Title";
+
 function AboutUs() {
   return (
     <div className="flex flex-col items-center justify-center gap-9 container m-auto px-5 md:px-0">
       <div>
-        <h2
-          className="text-3xl font-bold text-gray-2 relative flex items-center justify-center gap-3 
-            before:contents-[''] before:block before:h-[2px] before:w-12 before:bg-blue 
-            after:contents-[''] after:block after:h-[2px] after:w-12 after:bg-blue"
-        >
-          درباره ما
-        </h2>
+        <Title text={"درباره ما"}/>
       </div>
       <div className="flex flex-col-reverse items-start justify-center text-base text-gray-4 gap-10 md:gap-20 lg:flex-row">
         <div className="flex-1 flex items-start flex-col gap-5">
