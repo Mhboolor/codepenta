@@ -1,5 +1,6 @@
 import AboutUs from "@/src/componetns/home/AboutUs";
 import Commetns from "@/src/componetns/home/Commetns";
+import ContactUs from "@/src/componetns/home/ContactUs";
 import Fuatures from "@/src/componetns/home/Fuatures";
 import HeroBanner from "@/src/componetns/home/HeroBanner";
 import MoreServices from "@/src/componetns/home/MoreServices";
@@ -22,6 +23,7 @@ export default function Home() {
       <Portfolio/>
       <Team/>
       <Questions/>
+      <ContactUs/>
     </div>
   );
 }
