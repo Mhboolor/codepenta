@@ -2,7 +2,7 @@ import Image from "next/image";
 
 function HeroBanner() {
   return (
-    <div className="flex flex-col-reverse items-center justify-center container m-auto overflow-y-hidden lg:flex-row gap-10 my-10">
+    <div className="flex flex-col-reverse items-center justify-center container m-auto overflow-y-hidden lg:flex-row gap-10">
       <div className="flex-1 flex flex-col gap-5">
         <h2 className="font-bold text-3xl lg:text-5xl">
           کسب و کار خود را با ما رشد دهید
