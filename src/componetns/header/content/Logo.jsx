@@ -1,7 +1,7 @@
 function Logo() {
   return (
-    <div>
-      {/* <img src="./image/logo.png" alt="" /> */}
+    <div className="font-bold text-xl">
+      PentaCode
     </div>
   )
 }
